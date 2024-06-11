@@ -1,0 +1,49 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "student_name": "minh thu",
+      "email": "minhthu@gmail.com",
+      "address": "hà nội",
+      "phone": "0347583497",
+      "status": "đang hoạt động",
+      "created_at": "25/3/2024"
+    },
+    {
+      "student_name": "trang",
+      "email": "trang@gmail.com",
+      "address": "vĩnh phúc",
+      "phone": "0244573385",
+      "status": "không hoạt động",
+      "created_at": "5/4/2024",
+      "id": 2
+    },
+    {
+      "id": 4,
+      "student_name": "hồng",
+      "email": "hong@gmail.com",
+      "address": "ninh bình",
+      "phone": "0345612478",
+      "status": "không hoạt động",
+      "created_at": "4/6/2024"
+    },
+    {
+      "id": 5,
+      "student_name": "minh ánh",
+      "email": "minhanh@gmail.com",
+      "address": "hồ chí minh",
+      "phone": "0574832346",
+      "status": "không hoạt động",
+      "created_at": "3/2/2024"
+    },
+    {
+      "student_name": "nhung",
+      "email": "nhung@gmail.com",
+      "address": "hải phòng",
+      "phone": "0364657284",
+      "status": "đang hoạt động",
+      "created_at": "10/5/1024",
+      "id": 7
+    }
+  ]
+}

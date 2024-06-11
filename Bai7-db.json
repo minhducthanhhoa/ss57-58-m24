@@ -1,0 +1,19 @@
+{
+    "students1": [
+      {
+        "id": 1,
+        "name": "Nguyen Van A",
+        "email": "anv@mail.com",
+        "address": "Thanh Xuan, Ha Noi",
+        "phone": "(+84) 631 2097"
+      },
+      {
+        "id": 2,
+        "name": "Nguyen Van B",
+        "email": "bnv@mail.com",
+        "address": "Thanh pho Ho Chi Minh",
+        "phone": "(+84) 631 2097"
+      }
+    ]
+  }
+  
